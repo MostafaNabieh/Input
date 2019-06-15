@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Input</string>
+    <string-array name="spinner">
+        <item>speed order</item>
+        <item>normal order</item>
+        <item> slow order </item>
+
+    </string-array>
+</resources>
